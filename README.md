@@ -56,7 +56,7 @@ jupyter notebook
 Then execute:
 
 ```text
-notebooks/lung-colon-cancer-cnn-98-6.ipynb
+lung-colon-cancer-cnn-98-6.ipynb
 ```
 
 ## 📈 Results
